@@ -2,8 +2,6 @@ package com.example.android_scrennlock;
 
 import java.util.ArrayList;
 
-import android.R.color;
-import android.R.integer;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
