@@ -15,6 +15,9 @@ import android.view.MotionEvent;
 import android.view.View;
 
 public class GestureLock extends View {
+/**
+ * 这个是自定义view，可以实现绘制图案，和解锁
+ */
 
 	private Point[][] points = new Point[3][3];
 	private boolean inited = false;
