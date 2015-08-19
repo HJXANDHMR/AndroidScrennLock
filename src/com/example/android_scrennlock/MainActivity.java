@@ -15,7 +15,6 @@ public class MainActivity extends Activity implements OnClickListener {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		// GestureLock gestureLock = new GestureLock(this);
 		setContentView(R.layout.activity_main);
 		bt_set = (Button) findViewById(R.id.bt_set);
 		bt_test = (Button) findViewById(R.id.bt_test);
