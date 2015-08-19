@@ -5,7 +5,7 @@ public class Point {
 	public static int STATE_NORMAL = 0;
 	public static int STATE_PRESS = 1;
 	public static int STATE_ERROR = 2;
-//	定义，x,y的坐标
+    //定义，x,y的坐标
 	float x;
 	float y;
 	// 设置当前点的默认状态为STATE_NORMAL
