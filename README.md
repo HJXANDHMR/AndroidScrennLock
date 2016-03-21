@@ -1,2 +1,2 @@
-# Android_scrennLock
-这个是图案解锁的功能
+# AndroidScrnnlock
+实现图案解锁的功能。
