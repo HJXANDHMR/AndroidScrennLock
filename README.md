@@ -1,2 +1,2 @@
 # AndroidScrnnlock
-实现图案解锁的功能。
+实现图案解锁的一个实例
