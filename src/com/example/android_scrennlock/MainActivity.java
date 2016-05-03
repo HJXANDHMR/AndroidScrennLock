@@ -20,7 +20,6 @@ public class MainActivity extends Activity implements OnClickListener {
 		bt_test = (Button) findViewById(R.id.bt_test);
 		bt_set.setOnClickListener(this);
 		bt_test.setOnClickListener(this);
-
 	}
 
 	@Override
@@ -34,7 +33,6 @@ public class MainActivity extends Activity implements OnClickListener {
 			Intent intent2 = new Intent(MainActivity.this, TestActivity.class);
 			startActivity(intent2);
 			break;
-
 		}
 	}
 
