@@ -9,12 +9,10 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.widget.Toast;
 
-/**
- * 测试Activity
- * /
+
 public class TestActivity extends Activity {
 	private GestureLock gestureLock;
-
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
