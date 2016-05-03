@@ -22,6 +22,5 @@ public class Point {
 		float distance = (float) Math.sqrt((x - point.x) * (x - point.x)
 				+ (y - point.y) * (y - point.y));
 		return distance;
-
 	}
 }
