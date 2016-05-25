@@ -13,7 +13,7 @@ public class TestActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.testview);
+        setContentView(R.layout.activity_test);
 
         gestureLock = (GestureLock) findViewById(R.id.gestureLock1);
         SharedPreferences preferences = getSharedPreferences("password",
