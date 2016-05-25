@@ -21,7 +21,7 @@ public class SetActivity extends Activity implements OnClickListener {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.setview);
+		setContentView(R.layout.activity_set);
 		
 		gestureLock = (GestureLock) findViewById(R.id.LockView);
 		bt_reset = (Button) findViewById(R.id.btn_reset);
