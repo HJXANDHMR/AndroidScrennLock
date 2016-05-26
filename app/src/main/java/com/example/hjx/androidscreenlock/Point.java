@@ -23,6 +23,5 @@ public class Point {
                 + (y - point.y) * (y - point.y));
 
         return distance;
-
     }
 }

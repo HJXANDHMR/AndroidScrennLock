@@ -42,7 +42,6 @@ public class SetActivity extends Activity implements OnClickListener {
 					SetActivity.this.passList = passList;
 					return true;
 				}
-
 			}
 		});
 	}
